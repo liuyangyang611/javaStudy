@@ -37,7 +37,6 @@ public class Poker {
             }
         }
         //看牌
-        System.out.println("aaaa");
         System.out.println(player1);
         System.out.println(player2);
         System.out.println(player3);
