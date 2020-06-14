@@ -24,6 +24,7 @@ public class ThreadJoin {
 }
 class Join implements Runnable{
     private static Logger logger = LogManager.getLogger();
+
     @Override
     public void run() {
         for (int i = 0; i < 1000; i++) {
